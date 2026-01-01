@@ -2,7 +2,7 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-moghanni/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hossein-moghanni-1ab30214a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_hossein_moghanni_/)](https://www.instagram.com/_hossein_moghanni_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hossein.moghannialghalandis@tuni.fi)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?user=Sk_F7XgAAAAJ&hl=en)](https://scholar.google.com/citations?user=Sk_F7XgAAAAJ&hl=en)
