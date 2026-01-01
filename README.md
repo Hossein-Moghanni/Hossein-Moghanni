@@ -1,31 +1,26 @@
 # Hossein Moghanni Alghalandis
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hossein-moghanni-1ab30214a)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hossein.moghannialghalandis@tuni.fi)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=[https://pytopia.ai](https://scholar.google.com/citations?user=Sk_F7XgAAAAJ&hl=en))]([https://pytopia.ai](https://scholar.google.com/citations?user=Sk_F7XgAAAAJ&hl=en))
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 💻 Owner of [**PyTopia**](https://github.com/pytopia) github organization. Check it out for daily Python and Machine Learning contents.
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
-- 🌱 I also teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
-- 📫 How to reach me: hejazizo@ualberta.ca
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-moghanni/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_hossein_moghanni_/)](https://www.instagram.com/_hossein_moghanni_)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hossein.moghannialghalandis@tuni.fi)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?user=Sk_F7XgAAAAJ&hl=en)](https://scholar.google.com/citations?user=Sk_F7XgAAAAJ&hl=en)
+[![Github](https://img.shields.io/github/followers/Hossein-Moghanni?label=Follow&style=social)](https://github.com/Hossein-Moghanni)
+
+- 🌱 I am a Ph.D. student specializing in Material Science and Engineering. My previous research focused on welding of High Entropy Alloys (HEAs), and I am currently engaged in studying the mechanical behavior of modern metals with complex microstructures using in-situ high-speed imaging techniques. I have a keen interest in exploring the mechanics of materials and microstructures through a combination of physics-based and data-driven approaches, including Machine Learning.
+- 📫 How to reach me: hossein.moghannialghalandis@tuni.fi; hossein.moghanni1995@gmail.com
 
 
 ### 🖥 Skills
 
+- Python 
 - Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
+
 
 
 ---
